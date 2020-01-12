@@ -1,2 +1,2 @@
 # git-testGit 
-playground
+playground for git
