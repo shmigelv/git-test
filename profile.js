@@ -4,10 +4,7 @@ onload = {
 
 function test() {
      alertText("Better in func");
-}
-
-function test1() {
-    alertText("Better in test1 func");
+     alertText("End");
 }
 
 function alertText(text) {
