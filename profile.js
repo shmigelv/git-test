@@ -1,13 +1,15 @@
 onload = {
-    alert("Better");
+    alertText("Better");
 }
 
 function test() {
-     alert("Better in func");
+     alertText("Better in func");
 }
 
 function test1() {
-    alert("Better in test1 func");
+    alertText("Better in test1 func");
 }
 
-
+function alertText(text) {
+    alert(text);
+}
